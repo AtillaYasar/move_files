@@ -1,2 +1,2 @@
 # move_files
-very simple app for moving files on your computer
+simple app for moving files on your computer. using the tkinter library
